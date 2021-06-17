@@ -1,0 +1,10 @@
+{
+  "name": "react-three-plot",
+  "version": "1.0.0",
+  "description": "Scientific data visualization with React and ThreeJS",
+  "main": "index.js",
+  "repository": "https://github.com/amaralc/react-three-plot",
+  "author": "Amaral, C.",
+  "license": "MIT",
+  "private": false
+}
